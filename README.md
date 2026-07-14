@@ -67,6 +67,5 @@ npm run build
 ---
 
 ## 👥 Contributors
-- **Sourav Kaintura** ([@kainturasourav0-star](https://github.com/kainturasourav0-star))
-- **Tushar Choudhary** ([@Tudhar](https://github.com/Tudhar))
+
 - **Tushar Bisht** ([@tusharbisht01](https://github.com/tusharbisht01))
