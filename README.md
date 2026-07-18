@@ -1,11 +1,11 @@
 <!-- Updated: AI monitoring dashboard with real-time analytics -->
-# 🌌 Terminal-Lens — Generative UI CLI Te rminal
+# 🌌 Terminal-Lens — Generative UI CLI Terminal
 
 Terminal-Lens is a state-of-the-art,  cyberpunk-themed interactive command-line int erface (CLI) web application. It intercepts c ommon terminal commands and renders them as b eautiful, highly interactive, animated React  components directly inside the stdout stream.  
 
 **Live Deployments:**
 - **Vercel (Root Dom ain):** [https://terminal-lens.vercel.app](ht tps://terminal-lens.vercel.app)
-- **GitHub Pa ges:** [https://kainturasourav0-star.github.i o/terminal-lens/](https://kainturasourav0-sta r.github.io/terminal-lens/)
+- **GitHub Pages:** [https://kainturasourav0-star.github.i o/terminal-lens/](https://kainturasourav0-sta r.github.io/terminal-lens/)
 
 ---
 
